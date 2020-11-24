@@ -2,7 +2,7 @@ from tkinter import *
 import csv
 import os
 
-inventory_list = 'inventory_list.csv'           # Archivo CSV de inventario
+inventory_list = 'inventoryList.csv'           # Archivo CSV de inventario
 
 class Main():        # Main Window
 
