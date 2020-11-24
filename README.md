@@ -1,4 +1,4 @@
-# Inventory_Manager
+# inventoryManager
 It's a GUI in python that manages a business inventory on a CSV file.
 
 ------------------
@@ -23,7 +23,7 @@ modify, then select if you want to add (If there is new stock) or substract (If 
     --- If you choose "Add" you will input the name and the price of the new item to add it to the inventory.
     --- If you choose "Delete" you will input the number of the item you want to delete.
 
-- The inventory is stored in a CSV file with the name "inventory_list.csv" that has 5 columns:
+- The inventory is stored in a CSV file with the name "inventoryList.csv" that has 5 columns:
 1. Item number
 2. Item name
 3. Item price
